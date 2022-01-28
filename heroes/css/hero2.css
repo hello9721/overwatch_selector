@@ -1,0 +1,41 @@
+.profile .image{
+  background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero2.png");
+  background-size: 120%;
+  background-position-y: 5x;
+}
+.stat{
+  font-size: 14px;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 584px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 957px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1351px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q_skill{
+  background-color: rgba(0, 0, 0, 0.336);
+}
+.Q_size{
+  font-size: 12px;
+}
+.Q_padding{
+  padding-right: 10px;
+}
