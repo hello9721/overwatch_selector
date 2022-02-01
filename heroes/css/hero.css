@@ -28,10 +28,6 @@ body{
   background-size: 250%;
   background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/logo_overwatch.png");
 }
-/* .home{
-  background-size: cover;
-  background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/logo_overwatch.png");
-} */
 .profile{
   display: block;
   position: absolute;
