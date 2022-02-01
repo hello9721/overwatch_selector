@@ -1,12 +1,13 @@
 body{
   height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/bg.jpg");
 }
 .container{
-  padding: 50px 0;
+  padding: 10px 0;
 }
 .container .heroes{
   display: flex;
@@ -40,6 +41,7 @@ body{
   transform: skewX(14deg) translateX(-16px);
   background-position: center;
   background-repeat: no-repeat;
+  display: block;
 }
 .hero:nth-child(1) .image { background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero1.png"); }
 .hero:nth-child(2) .image { background-image: url("https://raw.githubusercontent.com/ParkYoungWoong/overwatch-hero-selector-vanilla/master/images/hero2.png"); }
@@ -84,5 +86,11 @@ body{
 }
 .logo img{
   width: 100%;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
+}
+.from{
+  color: #000000af;
+  text-align: center;
+  margin: 30px;
+  padding: 20px;
 }
