@@ -1,8 +1,8 @@
 .profile .image{
-  background-image: url("../assets/Doomfist.png");
-  background-position-y: 18px;
-  background-position-x: -150px;
-  background-size: 280%;
+  background-image: url("../assets/Echo.png");
+  background-position-y: -10px;
+  background-position-x: -120px;
+  background-size: 290%;
 }
 .skill .conti{
   min-height: 100px;
@@ -45,31 +45,31 @@
   visibility: visible;
 }
 .basic .tip {
-  top: 447px;
+  top: 321px;
   left: 95px;
   position: absolute;
   z-index: 1;
 }
 .click_left .tip {
-  top: 821px;
+  top: 693px;
   left: 95px;
   position: absolute;
   z-index: 1;
 }
 .shift .tip {
-  top: 1215px;
+  top: 1067px;
   left: 95px;
   position: absolute;
   z-index: 1;
 }
 .E .tip {
-  top: 1589px;
+  top: 1442px;
   left: 95px;
   position: absolute;
   z-index: 1;
 }
 .Q .tip {
-  top: 1962px;
+  top: 1836px;
   left: 95px;
   position: absolute;
   z-index: 1;
