@@ -1,0 +1,30 @@
+.profile .image{
+  background-image: url("../assets/CASSIDY.png");
+  background-position-y: 15px;
+  background-position-x: -185px;
+  background-size: 350%;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 606px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 978px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1374px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
