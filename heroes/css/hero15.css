@@ -1,0 +1,102 @@
+.profile .image{
+  background-image: url("../assets/Mercy.png");
+  background-position-y: -70px;
+  background-position-x: -170px;
+  background-size: 420%;
+}
+.skill .conti{
+  min-height: 100px;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  display: block;
+  box-sizing: border-box; 
+}
+.skill .click_left{
+  min-height: 100px;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  display: block;
+  box-sizing: border-box; 
+}
+.skill .basic2{
+  min-height: 100px;
+  border: 2px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  display: block;
+  box-sizing: border-box; 
+}
+.basic2 .tip {
+  visibility: hidden;
+  max-width: 500px;
+  background-color: rgba(0, 0, 0, 0.637);
+  color: #fff;
+  border-radius: 6px;
+  padding: 5px 0;
+}
+.basic2:hover .tip{
+  visibility: visible;
+}
+.conti .tip {
+  visibility: hidden;
+  max-width: 500px;
+  background-color: rgba(0, 0, 0, 0.637);
+  color: #fff;
+  border-radius: 6px;
+  padding: 5px 0;
+}
+.conti:hover .tip{
+  visibility: visible;
+}
+.click_left .tip {
+  visibility: hidden;
+  max-width: 500px;
+  background-color: rgba(0, 0, 0, 0.637);
+  color: #fff;
+  border-radius: 6px;
+  padding: 5px 0;
+}
+.click_left:hover .tip{
+  visibility: visible;
+}
+.basic .tip {
+  top: 384px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.basic2 .tip {
+  top: 778px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.click_left .tip {
+  top: 1150px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 1514px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 1888px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 2261px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}

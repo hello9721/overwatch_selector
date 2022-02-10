@@ -1,6 +1,7 @@
 .profile .image{
   background-image: url("../assets/Ana.png");
   background-position-y: -50px;
+  background-position-x: -80px;
   background-size: 250%;
 }
 .basic .tip {
