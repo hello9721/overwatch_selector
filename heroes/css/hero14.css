@@ -1,0 +1,30 @@
+.profile .image{
+  background-image: url("../assets/Mei.png");
+  background-position-y: -40px;
+  background-position-x: -120px;
+  background-size: 250%;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 626px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 1041px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1415px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}

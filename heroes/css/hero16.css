@@ -1,0 +1,30 @@
+.profile .image{
+  background-image: url("../assets/Moira.png");
+  background-position-y: -45px;
+  background-position-x: -130px;
+  background-size: 290%;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 626px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 1001px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1395px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}

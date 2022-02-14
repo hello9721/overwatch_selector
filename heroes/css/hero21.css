@@ -1,0 +1,30 @@
+.profile .image{
+  background-image: url("../assets/Roadhog.png");
+  background-position-y: -10px;
+  background-position-x: -80px;
+  background-size: 290%;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 605px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 980px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1353px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
