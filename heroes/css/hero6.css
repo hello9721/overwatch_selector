@@ -53,6 +53,17 @@
 .hana_Q:hover .tip{
   visibility: visible;
 }
+.conti .tip {
+  visibility: hidden;
+  max-width: 500px;
+  background-color: rgba(0, 0, 0, 0.637);
+  color: #fff;
+  border-radius: 6px;
+  padding: 5px 0;
+}
+.conti:hover .tip{
+  visibility: visible;
+}
 .basic .tip {
   top: 321px;
   left: 95px;
