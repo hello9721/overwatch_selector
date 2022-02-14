@@ -13,18 +13,7 @@
   display: block;
   box-sizing: border-box; 
 }
-.conti .tip {
-  visibility: hidden;
-  max-width: 500px;
-  background-color: rgba(0, 0, 0, 0.637);
-  color: #fff;
-  border-radius: 6px;
-  padding: 5px 0;
-}
-.conti:hover .tip{
-  visibility: visible;
-}
-.basic .tip {
+ .basic .tip {
   top: 352px;
   left: 95px;
   position: absolute;
