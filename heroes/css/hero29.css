@@ -1,0 +1,30 @@
+.profile .image{
+  background-image: url("../assets/WINSTON.png");
+  background-position-y: 0px;
+  background-position-x: -150px;
+  background-size: 270%;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 585px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 980px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1373px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}

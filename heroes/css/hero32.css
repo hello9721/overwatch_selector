@@ -1,0 +1,30 @@
+.profile .image{
+  background-image: url("../assets/ZENYATTA.png");
+  background-position-y: 10px;
+  background-position-x: -70px;
+  background-size: 210%;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 605px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 1020px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1436px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
