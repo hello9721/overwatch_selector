@@ -1,0 +1,43 @@
+.profile .image{
+  background-image: url("../assets/WIDOWMAKER.png");
+  background-position-y: 5px;
+  background-position-x: -220px;
+  background-size: 395%;
+}
+.tooltip .name {
+  visibility: hidden;
+  width: 120px;
+  background-color: rgba(0, 0, 0, 0.637);
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  top: 100px;
+  right: -120px;
+  position: absolute;
+  z-index: 1;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 628px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 1023px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1437px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
