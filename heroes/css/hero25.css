@@ -1,0 +1,30 @@
+.profile .image{
+  background-image: url("../assets/SYMMETRA.png");
+  background-position-y: -110px;
+  background-position-x: -120px;
+  background-size: 290%;
+}
+.basic .tip {
+  top: 210px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.shift .tip {
+  top: 607px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.E .tip {
+  top: 980px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
+.Q .tip {
+  top: 1353px;
+  left: 95px;
+  position: absolute;
+  z-index: 1;
+}
